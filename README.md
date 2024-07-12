@@ -25,5 +25,10 @@
 - Implement API to enable third party platforms and applications to interact with the netnode. ❌
 - Implement test cases and test environments. ❌
 - Setup and run a testnet to verify security and robustness. ❌
+- Setup Github actions (CI/CD) for continous releases. ❌
 - Crosscompile executable for delivery. ❌
 - Order a pizza and enjoy. ❌
+
+# How to contribute
+If you want contribute to this project feel free to create a branch.
+Once you are done just open a merge request.
