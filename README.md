@@ -13,7 +13,7 @@
 ```
 {
     "port": 9000, <- This is your local port you want to use
-    "origin": "192.168.0.176:9000", <- This is the origin node you want to connect when you run your netnode the first time
+    "origin": "192.168.0.176:9000", <- This is the remote netnode you want to connect with when you run your netnode the first time
     "isOrigin": 0 <- You only set this to 1 if you want to act as main netnode (e. g. you are the first netnode in network)
 }
 ```
