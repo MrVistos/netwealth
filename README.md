@@ -1,4 +1,4 @@
-# NetWealth
+# NetWealth (NTW)
 
 [<img src="https://github.com/MrVistos/netwealth/blob/main/icons/icon.png?raw=true">](https://github.com/MrVistos/netwealth)
 
