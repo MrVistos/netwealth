@@ -20,6 +20,7 @@
 # Plan
 - Implement **virus-network** and verify all netnodes can work without any main netnode or "masternodes". ✅
 - Implement **blockchain** and integrate a proof-of-stake algorithm. ❌
+- Implement API to enable third party platforms and applications to interact with the netnode. ❌
 - Implement test cases and test environments. ❌
 - Setup and run a testnet to verify security and robustness. ❌
 - Crosscompile executable for delivery. ❌
