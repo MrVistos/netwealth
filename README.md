@@ -6,7 +6,7 @@
 
 **Virus-Network** is an idea to guarantee communication in the network even without masternodes or central communication nodes. If any of the netnodes in the network are reachable the blockchain remains robust and functional.
 
-**Netnode** is the idea to deliver a all-in-one solution for the user. No more setup of complicated nodes or services. You set your origin, forward your port and you are to go to act as netnode. Each netnode will share all known peers to each netnode in the network. 
+**NetNode** is the idea to deliver a all-in-one solution for the user. No more setup of complicated nodes or services. You set your origin, forward your port and you are to go to act as netnode. Each netnode will share all known peers to each netnode in the network. 
 
 # Manual
 ## settings.json
