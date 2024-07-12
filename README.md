@@ -30,5 +30,5 @@
 - Order a pizza and enjoy. ❌
 
 # How to contribute
-If you want contribute to this project feel free to create a branch.
-Once you are done just open a merge request.
+If you want contribute to this project feel free to create a branch. When you are done open a merge request and choose development as target branch.
+Once a milestone from the plan is completed the development branch will be merged into the main branch and a release will be build.
