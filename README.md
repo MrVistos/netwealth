@@ -1,8 +1,12 @@
 # NetWealth
-NetWealth is an innovative blockchain project that leverages a robust and extensive API to cater to a wide range of use cases. Our platform aims to provide comprehensive solutions, enabling seamless integration and interaction with various applications and services. Whether for financial management, asset tracking, or decentralized applications, NetWealth's powerful API ensures versatility and adaptability, empowering developers and businesses to harness the full potential of blockchain technology.
+
+**NetWealth** is an innovative blockchain project that leverages a robust and extensive API to cater to a wide range of use cases. Our platform aims to provide comprehensive solutions, enabling seamless integration and interaction with various applications and services. Whether for financial management, asset tracking, or decentralized applications, NetWealth's powerful API ensures versatility and adaptability, empowering developers and businesses to harness the full potential of blockchain technology.
+
+**Virus-Network** is an idea to guarantee communication in the network even without masternodes or central communication nodes. If any of the netnodes in the network are reachable the blockchain remains robust and functional.
+
+**Netnode** is the idea to deliver a all-in-one solution for the user. No more setup of complicated nodes or services. You set your origin, forward your port and you are to go to act as netnode. Each netnode will share all known peers to each netnode in the network. 
 
 # Manual
-
 ## settings.json
 ```
 {
@@ -11,3 +15,12 @@ NetWealth is an innovative blockchain project that leverages a robust and extens
     "isOrigin": 0 <- You only set this to 1 if you want to act as main netnode (e. g. you are the first netnode in network)
 }
 ```
+
+
+# Plan
+- Implement **virus-network** and verify all netnodes can work without any main netnode or "masternodes". ✅
+- Implement **blockchain** and integrate a proof-of-stake algorithm. ❌
+- Implement test cases and test environments. ❌
+- Setup and run a testnet to verify security and robustness. ❌
+- Crosscompile executable for delivery. ❌
+- Order a pizza and enjoy. ❌
