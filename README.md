@@ -1,5 +1,7 @@
 # NetWealth
 
+![NetWealth](https://github.com/MrVistos/netwealth/blob/main/icons/icon.png?raw=true)
+
 **NetWealth** is an innovative blockchain project that leverages a robust and extensive API to cater to a wide range of use cases. Our platform aims to provide comprehensive solutions, enabling seamless integration and interaction with various applications and services. Whether for financial management, asset tracking, or decentralized applications, NetWealth's powerful API ensures versatility and adaptability, empowering developers and businesses to harness the full potential of blockchain technology.
 
 **Virus-Network** is an idea to guarantee communication in the network even without masternodes or central communication nodes. If any of the netnodes in the network are reachable the blockchain remains robust and functional.
