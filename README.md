@@ -1,6 +1,6 @@
 # NetWealth
 
-![NetWealth](https://github.com/MrVistos/netwealth/blob/main/icons/icon.png?raw=true)
+![NetWealth](https://github.com/MrVistos/netwealth/blob/main/icons/icon.png?raw=true)(https://github.com/MrVistos/netwealth)
 
 **NetWealth** is an innovative blockchain project that leverages a robust and extensive API to cater to a wide range of use cases. Our platform aims to provide comprehensive solutions, enabling seamless integration and interaction with various applications and services. Whether for financial management, asset tracking, or decentralized applications, NetWealth's powerful API ensures versatility and adaptability, empowering developers and businesses to harness the full potential of blockchain technology.
 
@@ -32,3 +32,5 @@
 # How to contribute
 If you want contribute to this project feel free to create a branch and start working!
 Once the work is done the branch can be merged into the main branch and a release will be build.
+
+![Discord](https://camo.githubusercontent.com/b15646585366435f766c6e4e0e1999d2a6ea59925bb78836519aabd882169c59/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667)(https://discord.gg/QZx2AH5b7t)
